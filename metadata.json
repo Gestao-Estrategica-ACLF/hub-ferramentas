@@ -1,0 +1,6 @@
+{
+  "name": "Hub de Ferramentas ACLF",
+  "description": "Central corporativa para dashboards de Business Intelligence, ferramentas internas e projetos ACLF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
